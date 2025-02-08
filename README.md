@@ -6,7 +6,7 @@ Breakdown of content by Movie or Tv show categories.
 ## Country-wise  Map:
 Geographic distribution of content provided by countries displayed on an interactive map.
 ## Yearly Trends:
-Data is organized to showcase trends over multiple years, enabling a better understanding of how the netflix content has evolved. It provides a year-by-year comparison to spot growth patterns.
+Data is organized to showcase trends over multiple years, enabling a better understanding of how the netflix content has evolved. It provides a year-by-year comparison to spot growth patterns..
 ## Rating Analysis:
 Data is organized to showcase trends over rating of movies and tv shows.
 ## Interactive Filters:-
