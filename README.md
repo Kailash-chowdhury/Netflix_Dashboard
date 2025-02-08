@@ -16,5 +16,5 @@ The dashboard uses a combination of charts (like bar charts, donut cahrts, map, 
 
 ## BI Dashboard: <a href= "https://github.com/Kailash-chowdhury/Netflix_Dashboard/blob/main/net.pbix">Dataset</a>
 ## Dashboard Interaction: <a href= "https://github.com/Kailash-chowdhury/Netflix_Dashboard/blob/main/Screenshot%20(93).png"> View Dashboard</a>
-## Raw Dataset: <a href= "https://github.com/Kailash-chowdhury/Netflix_Dashboard/blob/main/netflix1.csv>Dataset</a>
+## Raw Dataset: <a href= "https://github.com/Kailash-chowdhury/Netflix_Dashboard/blob/main/netflix1.csv">Dataset</a>
 ## Dashboard Preview:![Screenshot (93)](https://github.com/user-attachments/assets/ee3fbf8e-aaad-4d85-9ee4-f64d89152d6d)
